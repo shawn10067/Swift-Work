@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Project 1"
+      name = "Project 1">
+      <Group
+         location = "group:1"
+         name = "1">
+         <FileRef
+            location = "group:ViewController.swift">
+         </FileRef>
+         <FileRef
+            location = "group:DetailViewController.swift">
+         </FileRef>
+         <Group
+            location = "group:Assets.xcassets"
+            name = "Assets.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:AccentColor.colorset"
+               name = "AccentColor.colorset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:nssl0049.jpg">
+         </FileRef>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.storyboard">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:nssl0046.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:nssl0091.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:nssl0045.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:nssl0051.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:nssl0041.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:nssl0042.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:nssl0043.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:nssl0033.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:DetailViewController.xib">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:SceneDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:nssl0034.jpg">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:1.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:Project 2"
+      name = "Project 2">
+      <Group
+         location = "group:Project 2"
+         name = "Project 2">
+         <FileRef
+            location = "group:ViewController.swift">
+         </FileRef>
+         <Group
+            location = "group:Assets.xcassets"
+            name = "Assets.xcassets">
+            <Group
+               location = "group:estonia.imageset"
+               name = "estonia.imageset">
+               <FileRef
+                  location = "group:estonia@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:estonia@3x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:monaco.imageset"
+               name = "monaco.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:monaco@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:monaco@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:france.imageset"
+               name = "france.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:france@3x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:france@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:poland.imageset"
+               name = "poland.imageset">
+               <FileRef
+                  location = "group:poland@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:poland@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:russia.imageset"
+               name = "russia.imageset">
+               <FileRef
+                  location = "group:russia@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:russia@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:AccentColor.colorset"
+               name = "AccentColor.colorset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:ireland.imageset"
+               name = "ireland.imageset">
+               <FileRef
+                  location = "group:ireland@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:ireland@3x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:us.imageset"
+               name = "us.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:us@3x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:us@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:nigeria.imageset"
+               name = "nigeria.imageset">
+               <FileRef
+                  location = "group:nigeria@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:nigeria@3x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+            <Group
+               location = "group:uk.imageset"
+               name = "uk.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:uk@3x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:uk@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:germany.imageset"
+               name = "germany.imageset">
+               <FileRef
+                  location = "group:germany@3x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:germany@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:spain.imageset"
+               name = "spain.imageset">
+               <FileRef
+                  location = "group:spain@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:spain@3x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:italy.imageset"
+               name = "italy.imageset">
+               <FileRef
+                  location = "group:italy@3x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:italy@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.storyboard">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:SceneDelegate.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Project 2.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:Project 3"
+      name = "Project 3">
+      <Group
+         location = "group:Project1"
+         name = "Project1">
+         <FileRef
+            location = "group:ViewController.swift">
+         </FileRef>
+         <FileRef
+            location = "group:DetailViewController.swift">
+         </FileRef>
+         <Group
+            location = "group:Assets.xcassets"
+            name = "Assets.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:nssl0049.jpg">
+         </FileRef>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.storyboard">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:nssl0046.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:nssl0091.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:nssl0045.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:nssl0051.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:nssl0041.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:nssl0042.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:nssl0043.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:nssl0033.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:nssl0034.jpg">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Project1UITests"
+         name = "Project1UITests">
+         <FileRef
+            location = "group:Project1UITests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Project1.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:Project 4"
+      name = "Project 4">
+      <Group
+         location = "group:Project 4"
+         name = "Project 4">
+         <FileRef
+            location = "group:ViewController.swift">
+         </FileRef>
+         <Group
+            location = "group:Assets.xcassets"
+            name = "Assets.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:AccentColor.colorset"
+               name = "AccentColor.colorset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.storyboard">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:SceneDelegate.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Project 4.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
